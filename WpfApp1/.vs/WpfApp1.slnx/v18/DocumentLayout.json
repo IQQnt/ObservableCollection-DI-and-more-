@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|c:\\users\\sair\\desktop\\backend wpf\\observablecollection di\\wpfapp1\\wpfapp1\\services\\interfaces\\ishareddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\interfaces\\ishareddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|c:\\users\\sair\\desktop\\backend wpf\\observablecollection di\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|c:\\users\\sair\\desktop\\backend wpf\\observablecollection di\\wpfapp1\\wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|c:\\users\\sair\\desktop\\backend wpf\\observablecollection di\\wpfapp1\\wpfapp1\\services\\implementations\\shareddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7605DAD6-FF29-68CC-A841-EC859FB1D9DB}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\services\\implementations\\shareddataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "WpfApp1\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:25:03.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISharedDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\Services\\Interfaces\\ISharedDataService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Interfaces\\ISharedDataService.cs",
+              "ToolTip": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\Services\\Interfaces\\ISharedDataService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Interfaces\\ISharedDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:00:04.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\Services\\Implementations\\SharedDataService.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Services\\Implementations\\SharedDataService.cs",
+              "ToolTip": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\Services\\Implementations\\SharedDataService.cs",
+              "RelativeToolTip": "WpfApp1\\Services\\Implementations\\SharedDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:59:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\App.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:32:33.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Y2PT97MdXg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sair\\Desktop\\Backend WPF\\ObservableCollection DI\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sair\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\Sair\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
