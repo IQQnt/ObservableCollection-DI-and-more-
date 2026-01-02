@@ -9,6 +9,14 @@ namespace WpfApp1.Services.Interfaces
     public interface ISharedDataService
     {
         ObservableCollection<Item> Items { get; }
-        void AddItem(Item item);
+
+        //Metodos async
+        Task InitializeAsync();
+        Task AddItemAsync(string name);
+        Task ClearItemAsync();
+
+        //evento para notificar cambios en la coleccion
+        event EventHandler DataChanged;
+        //void AddItem(Item item);
     }
 }
